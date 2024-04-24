@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "good-npm-tea": "github:tyl569/good-npm-tea",
     "hello-npm": "github:tyl569/hello-npm"
   }
 }
